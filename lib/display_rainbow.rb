@@ -1,2 +1,2 @@
 def display_rainbow(colors)
-  puts 
+  puts #{colors['red'], ['orange'], ['yellow'], ['green'], ['blue'], ['indigo'], ['violet']
